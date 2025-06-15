@@ -1,2 +1,2 @@
 # my-portfolio
-My personal portfolio, where I showcase everything about myself!
+Hi I'm DK, and this is my portfolio where I showcase everything about myself!
