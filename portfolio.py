@@ -9,7 +9,7 @@ st.title("Welcome to My Personal Portfolio!")
 # About Section
 st.header("About Me")
 st.write("""
-    Hi! I'm Eugene Barglespeugh, a passionate software developer with experience in Python, Streamlit, and other web technologies.
+    Hi! My real name is Eugene Barglespeugh, a passionate software developer with experience in Python, Streamlit, and other web technologies.
     I love creating web applications that are both functional and aesthetically pleasing. I also enjoy hacking for fun sometimes!
 """)
 
