@@ -43,4 +43,5 @@ A tool to scrape and analyze data from websites.
 
 # Footer
 st.write("Thank you for visiting my portfolio! 🚀")
+st.write("If you want to connect, check out my X/Twitter: https://x.com/barglespeugh")
 
